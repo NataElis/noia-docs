@@ -1,0 +1,22 @@
+### Terms of Use
+Effective Date: April 1st, 2025
+By accessing or using Noia ("Noia," "Gentle Goal Tracker," "I," "me," or "my") service, website, or any applications (including mobile applications) made available by me, Natalia Eliseeva (together, the "Service"), however accessed, you agree to be bound by these Terms of Use ("Terms of Use").
+The Service is owned and operated solely by Natalia Eliseeva.
+These Terms of Use affect your legal rights and obligations. If you do not agree to be bound by all of these Terms of Use, do not access or use the Service.
+There may be times when I offer a special feature that has its own terms and conditions. In those cases, the specific terms for that feature will apply to the extent they conflict with these Terms of Use.
+
+### Basic Terms
+You must be at least 18 years old to use the Service.
+You may not post violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic, or sexually suggestive photos or other content via the Service.
+You are responsible for any activity that occurs through your account, and you agree that you will not sell, transfer, license, or assign your account, followers, username, or any account rights. With the exception of individuals or businesses that are expressly authorized to create accounts on behalf of their employers or clients, Noia prohibits the creation of — and you agree that you will not create — an account for anyone other than yourself. You further represent that all information you provide to Noia upon registration and at all other times will be true, accurate, current, and complete, and you agree to update your information as necessary to maintain its truth and accuracy.
+You agree that you will not solicit, collect, or use the login credentials of other Noia users. You are responsible for maintaining the confidentiality of your password and account information.
+You must not defame, stalk, bully, abuse, harass, threaten, impersonate, or intimidate any person or entity, and you must not post private or confidential information via the Service, including, without limitation, your or any other person's credit card information, social security or alternate national identity numbers, non-public phone numbers, or non-public email addresses.
+You may not use the Service for any illegal or unauthorized purpose. You agree to comply with all laws, rules, and regulations (for example, federal, state, local, and provincial) applicable to your use of the Service and your Content (as defined below), including but not limited to, copyright laws.
+You are solely responsible for your conduct and any data, text, files, information, usernames, images, graphics, photos, profiles, audio and video clips, sounds, musical works, works of authorship, applications, links, and other content or materials (collectively, "Content") that you submit, post, or display on or via the Service.
+You must not change, modify, adapt, or alter the Service or change, modify, or alter another website so as to falsely imply that it is associated with the Service or Noia.
+You must not access Noia’s private API by means other than those permitted by Noia.
+You must not create or submit unwanted email, comments, likes, or other forms of commercial or harassing communications (commonly known as "spam") to any Noia users.
+You must not interfere with or disrupt the Service or servers or networks connected to the Service, including, without limitation, by transmitting any worms, viruses, spyware, malware, or any other code of a destructive or disruptive nature. You may not inject content or code or otherwise alter or interfere with the way any Noia page is rendered or displayed in a user's browser or device.
+You must not create accounts with the Service through unauthorized means, including but not limited to, using an automated device, script, bot, spider, crawler, or scraper.
+You must not attempt to restrict another user from using or enjoying the Service, and you must not encourage or facilitate violations of these Terms of Use or any other Noia terms.
+Violation of these Terms of Use may, in Noia’s sole discretion, result in termination of your Noia account. You understand and agree that Noia cannot and will not be responsible for the Content posted on the Service, and that you use the Service at your own risk. If you violate the letter or spirit of these Terms of Use, or otherwise create risk or possible legal exposure for Noia, we may stop providing all or part of the Service to you.
